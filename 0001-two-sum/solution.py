@@ -1,6 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        for i in range(0, len(nums)):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i,j]
+        dif = None
+        table = {}
+        for i in range(len(nums)):
+            dif = target - nums[i]
+            if dif in table:
+                return [table[dif], i]
+            else:
+                table[nums[i]] = i
+        
