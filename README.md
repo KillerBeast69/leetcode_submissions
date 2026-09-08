@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
