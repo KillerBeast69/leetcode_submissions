@@ -1,7 +1,7 @@
 class Solution:
     def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start_node: int, end_node: int) -> float:
         adj = {}
-        visited = set()
+        max_prob = [0.0] * n
         for i in range(n):
             adj[i] = []
 
@@ -12,18 +12,19 @@ class Solution:
         #we have an adjacency list with its neighhbours and the probability
 
         maxheap = [(-1, start_node)]
-        visited.add((-1, start_node))
         
         while maxheap:
             p, n = heapq.heappop(maxheap)
-            visited.add(n)
 
             if n == end_node:
                 return -p
 
             for prob, neig in adj[n]:
-                if neig not in visited:
+                new_prob = -p * prob
+                if new_prob > max_prob[neig]:
+                    max_prob[neig] = new_prob
                     heapq.heappush(maxheap, (prob * p, neig))
+                    
                 
         return 0
 
