@@ -14,12 +14,12 @@ class Solution:
         maxheap = [(-1, start_node)]
         
         while maxheap:
-            p, n = heapq.heappop(maxheap)
+            p, node = heapq.heappop(maxheap)
 
-            if n == end_node:
+            if node == end_node:
                 return -p
 
-            for prob, neig in adj[n]:
+            for prob, neig in adj[node]:
                 new_prob = -p * prob
                 if new_prob > max_prob[neig]:
                     max_prob[neig] = new_prob
