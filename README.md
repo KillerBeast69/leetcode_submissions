@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 ## Shortest Path
 |  |
 | ------- |
@@ -27,8 +30,29 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 ## Math
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3870-count-commas-in-range) |
+## Array
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+## Matrix
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
