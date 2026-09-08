@@ -17,20 +17,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 ## Binary Search
 |  |
 | ------- |
