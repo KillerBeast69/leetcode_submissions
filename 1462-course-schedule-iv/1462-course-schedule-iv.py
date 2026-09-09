@@ -20,7 +20,7 @@ class Solution:
                 for neighbour in adj[cur]:
                     pre[neighbour].append(i)
                     if neighbour not in visited:
-                        visited.add(cur)
+                        visited.add(neighbour)
                         q.append(neighbour)
         
         res = []
