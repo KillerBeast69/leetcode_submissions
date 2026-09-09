@@ -9,7 +9,7 @@ class Solution:
         
         pre = {}
         for i in range(numCourses):
-            pre[i] = []
+            pre[i] = set()
 
         for i in range(numCourses):
             q = deque()
@@ -18,7 +18,7 @@ class Solution:
             while q:
                 cur = q.popleft()
                 for neighbour in adj[cur]:
-                    pre[neighbour].append(i)
+                    pre[neighbour].add(i)
                     if neighbour not in visited:
                         visited.add(neighbour)
                         q.append(neighbour)
