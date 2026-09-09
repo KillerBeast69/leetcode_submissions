@@ -17,10 +17,10 @@ class Solution:
             q.append(i)
             while q:
                 cur = q.popleft()
-                visited.add(cur)
                 for neighbour in adj[cur]:
                     pre[neighbour].append(i)
                     if neighbour not in visited:
+                        visited.add(cur)
                         q.append(neighbour)
         
         res = []
