@@ -1,6 +1,6 @@
 class Solution:
     def countCommas(self, n: int) -> int:
-        power = len(str(n // 10))
+        power = len(str(n)) - 1
 
         def rec(num, pow):
             if num < 1000:
