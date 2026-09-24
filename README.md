@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [3525-find-x-value-of-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
