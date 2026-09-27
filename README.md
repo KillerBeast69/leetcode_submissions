@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
+| [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [0983-minimum-cost-for-tickets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
