@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
 | ------- |
