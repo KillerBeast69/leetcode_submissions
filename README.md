@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [1092-shortest-common-supersequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
