@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Strongly Connected Component
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
