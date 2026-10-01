@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0322-coin-change) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
