@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Knapsack Problem
 |  |
