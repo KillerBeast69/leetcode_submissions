@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
