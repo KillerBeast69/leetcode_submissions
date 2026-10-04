@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1092-shortest-common-supersequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [0983-minimum-cost-for-tickets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1092-shortest-common-supersequence) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Segment Tree
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
