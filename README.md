@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0836-rectangle-overlap) |
 | [3525-find-x-value-of-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
