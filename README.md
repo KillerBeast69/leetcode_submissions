@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [0983-minimum-cost-for-tickets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1049-last-stone-weight-ii) |
 | [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Union-Find
 |  |
