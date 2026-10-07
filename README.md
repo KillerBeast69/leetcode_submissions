@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0704-binary-search) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Minimum Spanning Tree
