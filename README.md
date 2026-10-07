@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0238-product-of-array-except-self) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
