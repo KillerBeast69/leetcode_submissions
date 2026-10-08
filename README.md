@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
