@@ -1,9 +1,11 @@
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
         hashmap = {}
+
         for i in range(len(nums)):
-            val = target - nums[i]
-            if val in hashmap:
-                return [i, hashmap[val]]
+            rem = target - nums[i]
+            if rem in hashmap:
+                return [hashmap[rem], i]
+            
             hashmap[nums[i]] = i
         
