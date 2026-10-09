@@ -1,11 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         hashmap = defaultdict(list)
-        for s in strs:
+
+        for string in strs:
             count = [0] * 26
-            for c in s:
-                count[ord(c) - ord("a")] += 1
-            hashmap[tuple(count)].append(s)
+            for s in string:
+                c = ord(s) - ord("a")
+                count[c] += 1
+            hashmap[tuple(count)].append(string)
+
+        res = []
+        for strings in hashmap.values():
+            res.append(strings)
         
-        return list(hashmap.values())
-                    
+        return res
