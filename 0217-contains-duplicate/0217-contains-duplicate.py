@@ -5,4 +5,5 @@ class Solution:
             if i in hashset:
                 return True
             hashset.add(i)
+        
         return False
