@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
