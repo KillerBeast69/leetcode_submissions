@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-unique-3-digit-even-numbers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0680-valid-palindrome-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Segment Tree
 |  |
 | ------- |
