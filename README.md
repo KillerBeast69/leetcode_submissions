@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
