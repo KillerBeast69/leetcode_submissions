@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0022-generate-parentheses) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
