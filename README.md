@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0647-palindromic-substrings) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
