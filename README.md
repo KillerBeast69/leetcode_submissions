@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
@@ -453,4 +456,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
