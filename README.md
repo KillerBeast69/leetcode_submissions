@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3525-find-x-value-of-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
 | ------- |
