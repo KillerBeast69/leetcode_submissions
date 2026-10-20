@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [1462-course-schedule-iv](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1462-course-schedule-iv) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
@@ -442,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
