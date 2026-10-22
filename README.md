@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0474-ones-and-zeroes) |
@@ -484,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
