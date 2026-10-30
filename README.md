@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
