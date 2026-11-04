@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0210-course-schedule-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0155-min-stack](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0981-time-based-key-value-store) |
 ## Monotonic Stack
@@ -527,4 +530,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
