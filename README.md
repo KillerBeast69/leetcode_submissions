@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0875-koko-eating-bananas) |
 | [0983-minimum-cost-for-tickets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0983-minimum-cost-for-tickets) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KillerBeast69/leetcode_submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
