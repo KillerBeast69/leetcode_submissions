@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0778-swim-in-rising-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0778-swim-in-rising-water) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KillerBeast69/leetcode_submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0125-valid-palindrome) |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0494-target-sum) |
