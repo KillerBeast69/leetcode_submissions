@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0301-remove-invalid-parentheses) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KillerBeast69/leetcode_submissions/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/KillerBeast69/leetcode_submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Trie
 |  |
