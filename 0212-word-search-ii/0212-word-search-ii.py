@@ -37,6 +37,7 @@ class Solution:
             word += board[r][c]
             if node.isword:
                 res.add(word)
+                node.isword = False
                 
             dfs(r + 1, c, node, word)
             dfs(r - 1, c, node, word)
